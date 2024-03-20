@@ -1,0 +1,157 @@
+{
+  "user": {
+    "authKey": "",
+    "email": "",
+    "group": "",
+    "groupDescription": "",
+    "userActive": "",
+    "userAddress1": "",
+    "userAddress2": "",
+    "userAddress3": "",
+    "userDescription": "",
+    "userMobile": "",
+    "userName": ""
+  },
+
+  "userGroups": {
+    "groupDescription": "",
+    "groupName": "",
+    "priv": [
+      {
+        "privCode": "",
+        "privDesc": ""
+      }
+    ]
+  },
+
+  "customer": {
+    "active": "",
+    "city": "",
+    "discount": "",
+    "email": "",
+    "houseNo": "",
+    "landmark": "",
+    "name": "",
+    "phoneNumber": "",
+    "street": ""
+  },
+
+  "order": {
+    "customer": {
+      "address": "",
+      "name": "",
+      "phoneNumber": ""
+    },
+    "customerId": "",
+    "delCharge": "",
+    "deliveryDate": "",
+    "dryCleaningBag": "",
+    "generatedId": "",
+    "item": [
+      {
+        "item": "",
+        "price": "",
+        "quantity": "",
+        "subtot": ""
+      }
+    ],
+    "orderDate": "",
+    "payment": "",
+    "paymentMethod": "",
+    "pickupComplete": "",
+    "pickupDate": "",
+    "pressingBag": "",
+    "quantity": "",
+    "status": "",
+    "subtot": "",
+    "washingBag": ""
+  },
+
+  "orderItem": {
+    "deliveryForm": "",
+    "item": "",
+    "note": "",
+    "orderId": "",
+    "price": "",
+    "quatity": "",
+    "subtot": "",
+    "washingmethod": ""
+  },
+
+  "deliveryUnique": {
+    "createdAt": "",
+    "customer": {
+      "address": "",
+      "name": "",
+      "phoneNumber": ""
+    },
+    "customerId": "",
+    "generatedId": "",
+    "item": [
+      {
+        "CO_Number": "",
+        "DeliveryDate": "",
+        "NetAmount": "",
+        "collectedDate": "",
+        "delCharge": "",
+        "dispatch": "",
+        "status": ""
+      }
+    ],
+    "payment": "",
+    "paymentMethod": "",
+    "quantity": "",
+    "subtot": ""
+  },
+
+  "deliveryOrder": {
+    "CO_Number": "",
+    "DeliveryDate": "",
+    "NetAmount": "",
+    "collectedDate": "",
+    "customerId": "",
+    "delCharge": "",
+    "dispatch": "",
+    "orderId": "",
+    "phoneNumber": ""
+  },
+
+  "item": {
+    "category": "",
+    "categoryImgUrl": "",
+    "completeDays": "",
+    "description": "",
+    "dryCleaningPrice": "",
+    "image": "",
+    "itemCrBy": "",
+    "itemCrDate": "",
+    "name": "",
+    "pressingPrice": "",
+    "washingPrice": "",
+    "weight": ""
+  },
+
+  "location": {
+    "areaGroup": "",
+    "city": "",
+    "maximumDeliver": "",
+    "maximumPickup": "",
+    "price": ""
+  },
+
+  "deliveryTypeCollection": {
+    "aditionalChargePercentage": "",
+    "deliveryType": ""
+  },
+
+  "reportsCollection": {
+    "crBy": "",
+    "crDateTime": "",
+    "repName": ""
+  },
+
+  "washingTypeCollection": {
+    "discount": "",
+    "washType": ""
+  }
+}
